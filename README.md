@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zhebulev
 - 👀 I’m interested in programming, phisics, politik
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on CCTV
+- 💞️ I’m looking to work in IT
 - 📫 How to reach me: it`s a question
 
 <!---
